@@ -11,4 +11,4 @@ We will be creating and activating the environment in conda terminal using the f
 This environment will be called "presh". This is the environment where we will install and import the necessary python packages for the project. The downloaded libraries include opencv-python, tensorflow, and ipykernel. The code below shows how this was done.
 
 ## Milestone 2: Creating the model
-This milestone will involve two tasks namely: Creating the image project model on [Teachable Machine] (https://teachablemachine.withgoogle.com/) , and downloading it. This model is called "keras_model.h5"
+This milestone will involve two tasks namely: Creating the image project model on [Teachable Machine](https://teachablemachine.withgoogle.com/) , and downloading it. This model is called "keras_model.h5"
